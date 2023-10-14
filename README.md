@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+[![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Mary312Ti)
 <!--
 **Mary312Ti/Mary312Ti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
