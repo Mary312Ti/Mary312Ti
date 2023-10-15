@@ -4,6 +4,9 @@
 <div id="stats">
 <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=Mary312Ti&theme=transparent&locale=ru" alt="GitHub Streak" /></a>
 </div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mary312Ti&layout=compact)](https://github.com/Mary312Ti/github-readme-stats)
+
 <!--
 **Mary312Ti/Mary312Ti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
